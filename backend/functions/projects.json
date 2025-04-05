@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Personal Portfolio",
+      "author": "Chioma",
+      "languages": ["React", "CSS", "JavaScript"],
+      "description": "A personal website to showcase my skills and projects."
+    },
+    {
+      "name": "Chess for Wellness",
+      "author": "Chioma",
+      "languages": ["React", "Node.js"],
+      "description": "A project built for promoting mental health through chess."
+    }
+  ]
+  

@@ -1,0 +1,12 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+input{
+    width: 100%;
+}
+
+.d flex-gap-2 {
+    gap: 10px;
+}
